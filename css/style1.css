@@ -1,0 +1,49 @@
+body {
+  background-color: #d3d3d3;
+}
+
+a {
+  text-decoration: none;
+  color: #00008b;
+}
+h1 {
+  margin: 0;
+}
+
+h2 {
+  padding: 20px;
+  background-color: #d3d3d3;
+  text-size-adjust: 12;
+}
+
+#Container {
+  background-color: white;
+  width: auto;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#header {
+  background-color: #2f4f4f;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+#content {
+  padding: 10px;
+}
+#nav1 {
+  padding: 10px;
+  align-items: right;
+  float: right;
+}
+#section {
+  float: left;
+}
+#main {
+  width: auto;
+  height: auto;
+  float: left;
+}
